@@ -1,0 +1,22 @@
+
+
+Repositório escolhido: TechNews
+Esse projeto é um coletor de artigos de notícias que pode ser adaptado para tecnologia.
+
+Atividade 1: Desvendando a História dos Projetos – A Lógica do Git 1. Análise de um Histórico de Commits (Individual) 
+
+Commit 1:
+
+Hash: 2a4d321 Mensagem: "Improve article scraping for The Verge and TechCrunch" Arquivos modificados: crawler.py, sources_config.json Motivo da modificação: Adaptação do coletor para sites com estrutura HTML dinâmica. Contribuição: Aprimora a coleta de notícias de sites de tecnologia populares. 
+
+Commit 2:
+
+Hash: d9a143b Mensagem: "Fix bug in date parsing on articles with missing metadata" Arquivos modificados: article.py Motivo da modificação: Alguns artigos vinham sem data correta. Contribuição: Corrige falhas no armazenamento de dados, garantindo integridade das informações coletadas. 
+
+Commit 3:
+
+Hash: e7d822c Mensagem: "Update README with usage examples and Docker instructions" Arquivos modificados: README.md Motivo da modificação: Facilitar instalação do projeto por novos usuários. Contribuição: Melhora a documentação, incentivando contribuições e uso da ferramenta. 2. A Importância das Mensagens de Commit (Individual) Mensagens bem escritas ajudam a entender rapidamente: O que foi alterado. Por que foi alterado. Se há impacto em outras partes do código. 
+
+Mensagens eficazes nesse projeto:
+
+“Improve article scraping…” deixa claro o que foi melhorado e em qual parte. “Fix bug in date parsing…” aponta para um problema real corrigido. 
